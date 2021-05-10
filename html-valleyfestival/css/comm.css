@@ -117,12 +117,12 @@ header h1 a {
 .sec-bbs .sec-cont .lst-bbs a {
     display: block;
     position: relative;
-    padding: 13px 0 0 20px;
+    padding: 13px 0 0 15px;
 }
 .sec-bbs .sec-cont .lst-bbs a::before {
     content: "-";
     position: absolute;
-    top: 35%; left: 5px;
+    top: 35%; left: 0px;
 }
 .sec-gallery .lst-gallery {
     display: flex;
